@@ -7,7 +7,7 @@ I’m **Faez Ahmed**, a **BS Software Engineering student at FAST University Isl
 I’m passionate about becoming a **Software Engineer**, building reliable, high-quality software and simulations 🧪🤖.<br>
 I have hands-on experience in **Software Development, System Architecture, and Algorithms** 🌐⚙️.<br>
 Proficient in **C++, Python, Web Development, QA Automation,CI/CD pipelines, and Version Control** ☁️💻.<br>
-I also enjoy working on **Complex Projects** like Operating Systems Simulations and Network Applications 🕹️.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faez-ahmed-89625b28b/) 
