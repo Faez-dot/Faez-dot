@@ -1,6 +1,6 @@
 ---
 
-![](https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="coding gif" />
 
 # 💫 About Me:  
 I’m **Faez Ahmed**, a **BS Software Engineering student at FAST University Islamabad, Pakistan** 👨‍💻📓.<br>
